@@ -1,4 +1,4 @@
-# Power BI Visual Interactions Demo
+# Power BI Visual Interactions
 
 This repository contains the Power BI report and dataset used in the blog post  
 **“Power BI Visual Interactions Explained – A Quick Guide to Filter, Highlight, and None”**.
@@ -29,6 +29,6 @@ Read the full tutorial:
 ## 📥 Download
 
 - [Retail_Sales_Dataset.csv](https://github.com/pabodaR/Visual-Interactions-Power-BI/blob/main/retail_sales_dataset.csv)
-- [Visual_Interactions_Demo.pbix](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FpabodaR%2FVisual-Interactions-Power-BI%2Fblob%2Fmain%2Fvisual_interactions.pbix)
+- [Visual_Interactions_Demo.pbix](https://github.com/pabodaR/Visual-Interactions-Power-BI/blob/main/visual_interactions.pbix)
 
 ---
