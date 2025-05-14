@@ -28,7 +28,7 @@ Read the full tutorial:
 
 ## 📥 Download
 
-- [Retail_Sales_Dataset.csv](./Retail_Sales_Dataset.csv)
-- [Visual_Interactions_Demo.pbix](./Visual_Interactions_Demo.pbix)
+- [Retail_Sales_Dataset.csv](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FpabodaR%2FVisual-Interactions-Power-BI%2Fblob%2Fmain%2Fretail_sales_dataset.csv)
+- [Visual_Interactions_Demo.pbix](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2FpabodaR%2FVisual-Interactions-Power-BI%2Fblob%2Fmain%2Fvisual_interactions.pbix)
 
 ---
