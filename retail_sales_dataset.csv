@@ -1,0 +1,201 @@
+Order ID,Order Date,Region,Category,Sub-Category,Quantity,Sales,Profit
+ORD-1000,2025-02-27,West,Electronics,Monitor,5,2415.4,103.77
+ORD-1001,2024-03-08,East,Electronics,Phone,10,4469.1,-405.7
+ORD-1002,2024-12-22,South,Electronics,Monitor,2,626.0,-46.79
+ORD-1003,2025-04-04,South,Electronics,Monitor,2,900.86,127.91
+ORD-1004,2024-04-04,West,Office Supplies,Pen,6,1336.44,140.92
+ORD-1005,2023-06-14,South,Office Supplies,Paper,8,3472.0,-242.19
+ORD-1006,2023-12-01,North,Furniture,Bookcase,7,2506.14,482.49
+ORD-1007,2024-06-14,North,Office Supplies,Paper,6,777.12,-29.06
+ORD-1008,2024-05-25,North,Furniture,Bookcase,4,507.68,144.06
+ORD-1009,2024-03-23,West,Furniture,Chair,6,2632.74,787.15
+ORD-1010,2025-04-26,West,Furniture,Table,9,1373.67,-189.01
+ORD-1011,2025-01-11,East,Office Supplies,Pen,10,2781.4,-156.24
+ORD-1012,2025-02-16,North,Office Supplies,Paper,6,1752.42,-96.09
+ORD-1013,2024-01-04,South,Furniture,Chair,10,4908.4,-343.45
+ORD-1014,2024-05-18,North,Furniture,Bookcase,3,1318.86,345.13
+ORD-1015,2024-02-16,North,Office Supplies,Binder,7,2943.85,183.36
+ORD-1016,2024-08-09,South,Furniture,Bookcase,10,4143.8,40.24
+ORD-1017,2025-04-05,East,Electronics,Phone,6,302.16,32.15
+ORD-1018,2025-04-18,West,Office Supplies,Binder,6,2544.54,-199.7
+ORD-1019,2023-10-30,East,Furniture,Bookcase,4,769.24,-88.28
+ORD-1020,2024-06-09,West,Furniture,Chair,3,1287.33,-116.65
+ORD-1021,2023-08-30,North,Furniture,Chair,4,1228.44,108.07
+ORD-1022,2023-12-18,West,Furniture,Table,2,55.66,-10.53
+ORD-1023,2023-08-30,South,Office Supplies,Pen,8,905.44,181.43
+ORD-1024,2024-12-21,North,Office Supplies,Paper,10,597.4,-41.84
+ORD-1025,2023-07-26,South,Furniture,Bookcase,5,908.2,-99.76
+ORD-1026,2024-09-05,West,Furniture,Bookcase,2,705.34,-3.08
+ORD-1027,2025-01-23,East,Electronics,Laptop,8,3366.24,872.67
+ORD-1028,2023-11-24,South,Office Supplies,Binder,4,1934.44,-330.74
+ORD-1029,2025-04-19,South,Furniture,Table,9,1195.56,117.64
+ORD-1030,2024-06-30,West,Office Supplies,Pen,1,241.1,1.19
+ORD-1031,2024-11-11,East,Office Supplies,Paper,7,2943.15,-219.36
+ORD-1032,2025-02-01,North,Electronics,Laptop,2,349.2,-61.86
+ORD-1033,2024-08-23,East,Furniture,Chair,8,1460.72,-81.89
+ORD-1034,2025-04-13,East,Office Supplies,Binder,10,748.5,-33.57
+ORD-1035,2023-09-05,West,Office Supplies,Pen,1,301.34,44.99
+ORD-1036,2024-01-09,South,Furniture,Chair,8,1564.32,371.86
+ORD-1037,2023-07-29,West,Furniture,Table,10,2149.3,281.77
+ORD-1038,2024-11-30,North,Furniture,Table,2,274.04,-33.2
+ORD-1039,2023-07-10,West,Office Supplies,Binder,1,443.1,20.95
+ORD-1040,2025-04-11,East,Electronics,Monitor,7,714.84,214.24
+ORD-1041,2025-03-04,North,Office Supplies,Pen,1,206.89,28.81
+ORD-1042,2024-10-26,East,Furniture,Chair,1,361.49,-71.87
+ORD-1043,2024-01-25,North,Furniture,Chair,10,3281.4,777.12
+ORD-1044,2024-05-14,East,Office Supplies,Pen,2,486.1,127.06
+ORD-1045,2024-07-21,North,Furniture,Table,8,3215.28,-456.92
+ORD-1046,2023-07-31,East,Furniture,Bookcase,9,3694.14,452.42
+ORD-1047,2024-02-12,North,Furniture,Table,1,30.73,-2.98
+ORD-1048,2024-04-15,East,Office Supplies,Paper,6,2819.04,718.65
+ORD-1049,2024-01-14,North,Office Supplies,Binder,10,3311.3,517.15
+ORD-1050,2024-08-30,West,Office Supplies,Paper,6,2621.94,-290.66
+ORD-1051,2024-09-22,West,Office Supplies,Paper,1,77.84,-5.01
+ORD-1052,2025-04-22,East,Electronics,Laptop,2,351.5,38.76
+ORD-1053,2023-10-19,North,Electronics,Monitor,3,1473.42,-81.38
+ORD-1054,2024-07-16,West,Office Supplies,Pen,5,331.5,54.78
+ORD-1055,2024-05-18,North,Electronics,Monitor,9,3303.36,-160.76
+ORD-1056,2024-04-21,East,Electronics,Phone,2,117.42,29.86
+ORD-1057,2025-03-16,West,Electronics,Phone,2,489.5,73.33
+ORD-1058,2024-06-21,West,Furniture,Table,6,2220.18,548.83
+ORD-1059,2023-12-02,South,Office Supplies,Binder,7,2835.0,838.45
+ORD-1060,2023-07-01,North,Furniture,Chair,4,1509.76,-255.79
+ORD-1061,2025-01-28,North,Furniture,Table,9,2378.79,57.74
+ORD-1062,2025-04-26,West,Office Supplies,Binder,4,869.16,-13.76
+ORD-1063,2024-07-13,East,Office Supplies,Pen,7,728.35,-103.79
+ORD-1064,2025-04-24,North,Office Supplies,Paper,4,273.08,-0.28
+ORD-1065,2023-05-24,South,Office Supplies,Pen,4,1261.88,-186.36
+ORD-1066,2023-07-25,West,Electronics,Phone,9,3736.98,-551.68
+ORD-1067,2024-11-23,West,Furniture,Bookcase,7,2259.6,26.26
+ORD-1068,2025-02-24,West,Office Supplies,Paper,8,3992.88,469.29
+ORD-1069,2024-03-18,South,Office Supplies,Binder,4,59.04,9.02
+ORD-1070,2024-11-15,East,Electronics,Monitor,9,744.3,-53.26
+ORD-1071,2025-02-12,South,Electronics,Laptop,5,1809.4,368.26
+ORD-1072,2025-01-12,North,Furniture,Bookcase,1,42.51,-5.73
+ORD-1073,2024-10-13,East,Furniture,Table,6,2593.98,519.63
+ORD-1074,2024-09-10,West,Electronics,Laptop,7,3160.71,161.87
+ORD-1075,2023-05-14,North,Office Supplies,Binder,10,4953.6,859.36
+ORD-1076,2024-08-31,South,Electronics,Laptop,10,2147.4,614.75
+ORD-1077,2024-05-31,West,Office Supplies,Binder,4,1708.6,340.06
+ORD-1078,2025-02-15,North,Office Supplies,Pen,5,1291.8,-94.0
+ORD-1079,2025-03-17,North,Electronics,Phone,5,1942.6,-15.39
+ORD-1080,2024-01-27,West,Furniture,Chair,3,381.27,62.8
+ORD-1081,2023-11-19,East,Furniture,Chair,8,1718.0,78.88
+ORD-1082,2024-12-01,North,Office Supplies,Binder,3,1221.12,-28.84
+ORD-1083,2024-01-21,North,Office Supplies,Paper,7,1643.95,-245.38
+ORD-1084,2024-11-10,South,Furniture,Chair,10,3125.3,359.36
+ORD-1085,2025-03-20,North,Office Supplies,Binder,6,633.24,121.4
+ORD-1086,2023-07-01,West,Furniture,Chair,10,3534.0,378.72
+ORD-1087,2023-10-09,East,Office Supplies,Pen,10,1552.3,348.59
+ORD-1088,2025-04-25,West,Electronics,Laptop,2,528.62,101.89
+ORD-1089,2024-07-27,South,Furniture,Table,8,1536.64,-160.98
+ORD-1090,2023-11-02,East,Office Supplies,Pen,1,451.94,-81.35
+ORD-1091,2023-11-15,East,Furniture,Bookcase,10,2901.8,-267.0
+ORD-1092,2025-01-26,North,Office Supplies,Binder,9,1942.65,-91.97
+ORD-1093,2023-09-01,North,Furniture,Table,10,2168.1,-342.53
+ORD-1094,2025-01-26,North,Electronics,Monitor,2,426.86,-52.04
+ORD-1095,2024-07-08,North,Electronics,Phone,7,173.39,45.02
+ORD-1096,2024-04-25,East,Office Supplies,Paper,2,365.46,-50.91
+ORD-1097,2023-07-23,North,Electronics,Phone,3,44.64,12.82
+ORD-1098,2023-07-15,East,Furniture,Bookcase,3,335.73,-32.77
+ORD-1099,2024-01-17,North,Office Supplies,Pen,5,954.35,-179.11
+ORD-1100,2025-03-23,South,Furniture,Chair,8,520.56,-14.46
+ORD-1101,2024-06-11,East,Furniture,Chair,4,750.0,27.51
+ORD-1102,2025-05-07,East,Electronics,Laptop,6,601.08,178.21
+ORD-1103,2024-05-28,North,Office Supplies,Binder,5,433.2,107.8
+ORD-1104,2023-08-06,South,Furniture,Table,9,1160.91,205.98
+ORD-1105,2024-01-03,East,Electronics,Phone,1,431.88,43.45
+ORD-1106,2024-07-15,West,Furniture,Bookcase,2,149.38,-7.51
+ORD-1107,2023-12-26,West,Office Supplies,Pen,10,2168.7,256.95
+ORD-1108,2024-11-12,North,Furniture,Table,6,1932.9,124.87
+ORD-1109,2023-08-18,West,Electronics,Monitor,7,3369.52,844.51
+ORD-1110,2024-07-12,West,Furniture,Table,5,2383.25,-368.14
+ORD-1111,2024-01-27,South,Furniture,Table,2,567.02,81.71
+ORD-1112,2025-02-04,West,Electronics,Monitor,7,1550.78,-117.89
+ORD-1113,2025-04-29,West,Electronics,Laptop,3,552.39,63.94
+ORD-1114,2024-07-06,North,Electronics,Monitor,5,54.5,8.15
+ORD-1115,2023-10-18,West,Furniture,Chair,5,330.4,95.62
+ORD-1116,2025-01-23,East,Office Supplies,Binder,3,653.58,114.82
+ORD-1117,2024-08-24,North,Office Supplies,Paper,4,1105.72,2.93
+ORD-1118,2024-07-12,North,Furniture,Table,1,10.12,-0.01
+ORD-1119,2024-08-12,West,Electronics,Monitor,5,916.85,216.05
+ORD-1120,2023-12-23,South,Office Supplies,Pen,1,44.52,-3.06
+ORD-1121,2024-04-23,East,Furniture,Bookcase,4,1785.76,323.22
+ORD-1122,2023-07-24,North,Electronics,Phone,5,1323.6,115.14
+ORD-1123,2024-08-19,South,Office Supplies,Pen,7,3347.89,240.33
+ORD-1124,2025-01-22,East,Electronics,Phone,6,1730.58,-226.87
+ORD-1125,2024-03-07,North,Office Supplies,Pen,7,1446.2,49.13
+ORD-1126,2024-01-15,East,Electronics,Laptop,8,2990.0,-272.08
+ORD-1127,2024-08-03,West,Office Supplies,Binder,6,1508.58,421.21
+ORD-1128,2023-11-18,West,Electronics,Monitor,8,285.44,31.56
+ORD-1129,2023-12-25,North,Electronics,Phone,7,3117.73,-607.79
+ORD-1130,2023-10-03,North,Office Supplies,Pen,7,92.05,-16.51
+ORD-1131,2023-10-08,North,Electronics,Laptop,5,1831.4,-158.7
+ORD-1132,2025-02-10,East,Furniture,Chair,7,1650.88,-57.62
+ORD-1133,2023-10-06,South,Electronics,Phone,7,577.71,154.03
+ORD-1134,2023-06-08,South,Office Supplies,Paper,3,337.02,-35.92
+ORD-1135,2024-08-31,East,Electronics,Phone,8,1606.96,-144.5
+ORD-1136,2024-10-05,South,Electronics,Monitor,10,3579.0,905.17
+ORD-1137,2023-12-01,North,Furniture,Bookcase,2,873.58,-15.89
+ORD-1138,2024-05-18,South,Furniture,Bookcase,5,1550.65,236.41
+ORD-1139,2023-07-06,East,Electronics,Phone,8,291.44,43.25
+ORD-1140,2023-07-22,West,Office Supplies,Paper,8,1078.64,40.8
+ORD-1141,2024-10-22,East,Electronics,Monitor,1,35.75,-0.9
+ORD-1142,2024-12-22,East,Office Supplies,Pen,3,123.63,1.72
+ORD-1143,2023-08-23,South,Office Supplies,Paper,9,4153.32,111.53
+ORD-1144,2025-03-25,East,Office Supplies,Pen,10,4425.9,873.65
+ORD-1145,2023-09-07,East,Office Supplies,Paper,6,811.14,49.48
+ORD-1146,2025-04-30,South,Electronics,Monitor,4,1745.08,-47.34
+ORD-1147,2023-06-13,South,Electronics,Laptop,5,814.95,187.44
+ORD-1148,2025-02-26,East,Electronics,Phone,4,127.24,33.98
+ORD-1149,2023-07-15,North,Furniture,Table,8,2920.48,-514.78
+ORD-1150,2025-04-10,West,Electronics,Phone,8,543.04,-86.49
+ORD-1151,2024-11-07,North,Furniture,Table,4,903.64,-145.87
+ORD-1152,2025-04-29,West,Office Supplies,Paper,1,479.87,-36.06
+ORD-1153,2025-02-16,South,Furniture,Table,6,999.6,17.41
+ORD-1154,2024-07-06,East,Office Supplies,Binder,4,1433.68,270.58
+ORD-1155,2024-10-25,West,Office Supplies,Binder,5,717.75,-137.61
+ORD-1156,2024-03-12,North,Furniture,Bookcase,7,923.3,-53.29
+ORD-1157,2025-02-22,North,Office Supplies,Binder,9,1978.65,-346.49
+ORD-1158,2024-11-11,West,Office Supplies,Paper,2,971.72,80.01
+ORD-1159,2024-06-24,South,Office Supplies,Binder,9,3003.3,-267.96
+ORD-1160,2023-12-14,South,Furniture,Bookcase,5,1702.9,-141.68
+ORD-1161,2024-06-22,West,Electronics,Laptop,3,231.81,-44.57
+ORD-1162,2025-02-02,East,Electronics,Laptop,1,407.88,97.25
+ORD-1163,2023-11-12,South,Furniture,Bookcase,2,152.86,-14.79
+ORD-1164,2025-03-03,West,Office Supplies,Binder,4,501.2,-67.13
+ORD-1165,2023-10-28,South,Electronics,Phone,10,2996.0,343.03
+ORD-1166,2025-04-08,North,Office Supplies,Pen,9,2718.9,121.26
+ORD-1167,2024-10-22,East,Furniture,Chair,9,2968.65,387.19
+ORD-1168,2024-08-14,West,Office Supplies,Paper,9,1474.47,330.12
+ORD-1169,2025-02-13,East,Furniture,Bookcase,7,2482.76,523.49
+ORD-1170,2024-04-03,East,Electronics,Monitor,4,115.04,18.78
+ORD-1171,2024-08-06,South,Electronics,Phone,4,549.8,74.66
+ORD-1172,2023-12-13,East,Furniture,Table,10,2743.6,455.87
+ORD-1173,2024-04-27,South,Electronics,Monitor,8,2541.12,-477.01
+ORD-1174,2024-05-30,North,Furniture,Chair,6,255.66,-43.15
+ORD-1175,2024-10-07,West,Furniture,Chair,8,1786.0,-37.47
+ORD-1176,2024-09-23,South,Office Supplies,Paper,7,1382.57,6.42
+ORD-1177,2024-11-07,East,Office Supplies,Binder,8,3055.6,251.67
+ORD-1178,2025-04-25,North,Electronics,Phone,3,34.56,-4.52
+ORD-1179,2025-01-19,South,Furniture,Table,4,1686.68,354.76
+ORD-1180,2024-02-15,South,Furniture,Chair,9,832.23,-133.79
+ORD-1181,2023-07-16,North,Office Supplies,Binder,8,2863.6,307.75
+ORD-1182,2024-01-20,North,Electronics,Phone,7,163.52,43.53
+ORD-1183,2024-08-31,North,Electronics,Monitor,6,920.64,-114.71
+ORD-1184,2023-08-11,South,Office Supplies,Paper,3,1111.17,2.62
+ORD-1185,2024-05-25,East,Electronics,Phone,1,162.27,40.61
+ORD-1186,2024-08-11,West,Furniture,Bookcase,10,2805.3,749.14
+ORD-1187,2024-09-14,North,Electronics,Phone,2,415.7,19.95
+ORD-1188,2024-01-29,North,Electronics,Laptop,1,134.42,18.85
+ORD-1189,2025-02-28,East,Office Supplies,Pen,9,2366.73,-16.48
+ORD-1190,2023-10-08,East,Furniture,Chair,10,4910.4,993.86
+ORD-1191,2023-11-18,South,Office Supplies,Binder,9,3094.65,-72.17
+ORD-1192,2023-05-26,South,Electronics,Laptop,1,296.62,-51.72
+ORD-1193,2024-12-02,South,Electronics,Phone,5,1583.0,-60.94
+ORD-1194,2023-12-10,West,Office Supplies,Paper,3,31.5,-4.08
+ORD-1195,2023-08-12,North,Electronics,Monitor,6,2792.4,765.97
+ORD-1196,2024-11-11,West,Office Supplies,Binder,5,1880.85,-199.69
+ORD-1197,2023-11-01,West,Electronics,Monitor,9,839.07,108.6
+ORD-1198,2024-02-26,South,Office Supplies,Pen,9,2877.66,206.36
+ORD-1199,2025-01-20,West,Electronics,Phone,5,748.15,10.74
